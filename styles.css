@@ -1,0 +1,12 @@
+.factoid{
+    background-color:blue;
+    border: 2px solid orange;
+    padding: 2em 4em 2em 4em; /*T R B L*/
+     
+}
+
+
+
+.true:hover {
+    background-color: coral; 
+}
